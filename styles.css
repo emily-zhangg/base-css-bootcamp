@@ -1,3 +1,58 @@
-body{
-  background-color:pink;
+body {
+  background-color: white;
+  max-width: 400px;
+  margin: auto;
+}
+.straits-times {
+  position: fixed;
+  top: 0px;
+  color: #0c2b57;
+  height: 57px;
+  background-color: white;
+  width: 400px;
+}
+.header2-life {
+  margin-top: 57px;
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.header2-top-stories {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 800;
+  text-align: center;
+}
+.dashed {
+  color: grey;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  width: 400px;
+}
+.story1-title {
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+.story1-content {
+  font-size: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 400;
+}
+.sub {
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+.header2-podcasts {
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 800;
+  text-align: center;
+}
+
+.ad1 {
+  text-align: center;
+  background-color: rgb(175, 170, 170, 0.6);
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
